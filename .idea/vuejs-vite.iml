@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/axios-token-interceptor" level="application" />
+    <orderEntry type="library" name="@types/npm-run" level="application" />
+    <orderEntry type="library" name="@types/prettier" level="application" />
   </component>
 </module>
